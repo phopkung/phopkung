@@ -1,6 +1,7 @@
-## Hi there 👋
+## Kornwit
 
 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bootstrap,css,ts,js,react,java,nodejs,nestjs,kotlin,spring,php,html,vue,vuetify,postgres,mysql,docker,kubernetes,kafka,rabbitmq,redis,linux,ubuntu,npm,pnpm,yarn&theme=dark)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Full Stack Developer
 - 🌱 I’m currently learning golang, vuetify and AI
